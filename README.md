@@ -32,4 +32,6 @@ Run Web Brower, supported HTML5 (like Chrome browser)
 
 "http://[raspberrypi-IP]/app/clickpirc"
 
-Enjoy!!  
+Enjoy!!!
+
+!
